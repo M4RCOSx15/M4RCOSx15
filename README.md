@@ -62,10 +62,6 @@ Atualmente cursando **Ciência da Computação na UNA**, foco minha build no des
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=M4RCOSx15&show_icons=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RCOSx15&layout=compact&theme=dark&title_color=C9A84C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
-
 </div>
 
 ---
