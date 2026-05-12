@@ -36,3 +36,50 @@ Atualmente cursando **Ciência da Computação na UNA**, foco minha build no des
 ◈  Covenant  →  Open Source
 ◈  Build     →  INT / DEX
 ◈  Status    →  Hunter. Refuses to go hollow.
+```
+---
+
+### 🛡️ Arsenal Técnico
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=C9A84C)
+![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=C9A84C)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=C9A84C)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=C9A84C)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=C9A84C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=C9A84C)
+
+</div>
+
+---
+
+### 📊 Status do Personagem (Estatísticas)
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=M4RC0Sx15&theme=dark&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=C9A84C" alt="streak"/>
+
+<br/><br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=M4RC0Sx15&show_icons=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC0Sx15&layout=compact&theme=dark&title_color=C9A84C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+
+</div>
+
+---
+
+### 📜 Quest Log (Jornada de Contribuições)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M4RC0Sx15&bg_color=0d0d0d&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=C9A84C" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+  <em>May the flames guide thee, Marcos.</em>
+</div>
