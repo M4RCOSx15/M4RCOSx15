@@ -58,13 +58,13 @@ Atualmente cursando **Ciência da Computação na UNA**, foco minha build no des
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=M4RC0Sx15&theme=dark&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=C9A84C" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=M4RCOSx15&theme=dark&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=C9A84C" alt="streak"/>
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=M4RC0Sx15&show_icons=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=M4RCOSx15&show_icons=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RC0Sx15&layout=compact&theme=dark&title_color=C9A84C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RCOSx15&layout=compact&theme=dark&title_color=C9A84C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
@@ -74,7 +74,7 @@ Atualmente cursando **Ciência da Computação na UNA**, foco minha build no des
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M4RC0Sx15&bg_color=0d0d0d&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=C9A84C" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M4RCOSx15&bg_color=0d0d0d&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=C9A84C" alt="Activity Graph"/>
 
 </div>
 
