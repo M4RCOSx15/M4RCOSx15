@@ -1,34 +1,38 @@
 <div align="center">
-  <img src="https://wallpapers.com/images/hd/dark-souls-bonfire-4k-74f7f6f9w9p4p4p4.jpg" width="100%" alt="banner"/>
+  <img src="https://i.redd.it/30048m8v200b1.jpg" width="100%" alt="Dark Souls Bonfire Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=24&pause=2000&color=E2B25A&center=true&vCenter=true&width=800&lines=Take+care,+my+friend.;Don't+you+dare+become+empty." alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/marcos-gabriel-93b8b2345"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=24&pause=2000&color=C9A84C&center=true&vCenter=true&width=800&lines=Take+care,+my+friend.;Don't+you+dare+become+empty." alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=M4RC0Sx15&style=flat-square&color=E2B25A&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/marcos-gabriel-93b8b2345">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=M4RC0Sx15&style=flat-square&color=C9A84C&label=ESTUS+REFILLS" alt="Profile Views"/>
 </div>
 
 ---
 
-**Backend Software Developer**
+### 🗡️ Backend Developer & System Explorer
 
-> *"The flow of time itself is convoluted; with heroes centuries old phasing in and out."*
+> *"The flow of time itself is convoluted, with heroes centuries old phasing in and out."*
 
-Atualmente aprofundando meus estudos no ecossistema **Java** (**Spring Boot**, **Spring Security**, **JPA**) e desenvolvimento de sistemas em geral. Tenho grande interesse na integração de **Inteligência Artificial (LLMs e RAG)** e explorações com hardware e **IoT** (Arduino).
+Estudante de **Ciência da Computação na UNA**, focado em forjar sistemas robustos com o ecossistema **Java (Spring Boot, Security, JPA)**. Também exploro as artes da **Inteligência Artificial (RAG, LLMs)** e a integração de hardware com **Arduino**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" alt="Alternative Art"/> ```text
-◈  Class     →  Backend Developer
+<img align="right" width="280px" src="https://raw.githubusercontent.com/Anis-Karmous/Anis-Karmous/master/assets/ds.gif" alt="Dark Souls Knight Anim"/>
+
+```text
+◈  Class     →  Backend Engineer
 ◈  Origin    →  Minas Gerais, Brazil 🇧🇷
 ◈  Covenant  →  Open Source
-◈  Build     →  INT / FTH
+◈  Build     →  INT / DEX (Java & AI)
 ◈  Status    →  Kindling the bonfire.
