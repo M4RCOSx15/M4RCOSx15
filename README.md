@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.redd.it/30048m8v200b1.jpg" width="100%" alt="Dark Souls Bonfire Banner"/>
+  <img src="banner.jfif" width="100%" alt="banner"/>
 </div>
 
 <div align="center">
@@ -22,17 +22,17 @@
 
 ---
 
-### 🗡️ Backend Developer & System Explorer
+### 🗡️ Backend / Full-Stack Apprentice
 
 > *"The flow of time itself is convoluted, with heroes centuries old phasing in and out."*
 
-Estudante de **Ciência da Computação na UNA**, focado em forjar sistemas robustos com o ecossistema **Java (Spring Boot, Security, JPA)**. Também exploro as artes da **Inteligência Artificial (RAG, LLMs)** e a integração de hardware com **Arduino**.
+Atualmente cursando **Ciência da Computação na UNA**, foco minha build no desenvolvimento de sistemas robustos e escaláveis. Tenho experiência em modelagem de dados e integração de APIs, explorando o ecossistema de software de modo geral.
 
-<img align="right" width="280px" src="https://raw.githubusercontent.com/Anis-Karmous/Anis-Karmous/master/assets/ds.gif" alt="Dark Souls Knight Anim"/>
+<img align="right" width="220px" src="artorias.jfif" alt="Character"/>
 
 ```text
-◈  Class     →  Backend Engineer
+◈  Class     →  Backend / Full-Stack Apprentice
 ◈  Origin    →  Minas Gerais, Brazil 🇧🇷
 ◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX (Java & AI)
-◈  Status    →  Kindling the bonfire.
+◈  Build     →  INT / DEX
+◈  Status    →  Hunter. Refuses to go hollow.
