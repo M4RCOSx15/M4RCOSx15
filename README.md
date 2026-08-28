@@ -39,7 +39,7 @@ Atualmente cursando **Ciência da Computação na UNA**, foco minha build no des
 ```
 ---
 
-### 🛡️ Arsenal Técnico
+###  Arsenal Técnico
 
 <div align="center">
 
@@ -54,11 +54,11 @@ Atualmente cursando **Ciência da Computação na UNA**, foco minha build no des
 
 ---
 
-### 📊 Status do Personagem (Estatísticas)
+###  Status do Personagem (Estatísticas)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=M4RCOSx15&theme=dark&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=C9A84C" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=M4RCOSx15&theme=dark&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=C9A84C" alt="streak"/>
 
 <br/><br/>
 
@@ -66,7 +66,7 @@ Atualmente cursando **Ciência da Computação na UNA**, foco minha build no des
 
 ---
 
-### 📜 Quest Log (Jornada de Contribuições)
+###  Quest Log (Jornada de Contribuições)
 
 <div align="center">
 
