@@ -33,9 +33,9 @@ RAMP = " .`:-=+*cs#%@"  # bright(sparse) -> dark(dense); leading space clears bg
 # light global tuning is needed here.
 CONTRAST = 0.92
 BRIGHTNESS = 1.0
-GAMMA = 1.65          # >1 brightens mids -> face lands in sparser chars
+GAMMA = 1.0           # tuned per-photo so ~75% of the grid lands blank
 SHARPEN = False
-WHITE_FLOOR = 0.60    # luminance above this is forced to blank (space)
+WHITE_FLOOR = 0.45    # luminance above this is forced to blank (space)
 
 PAD = 20
 TITLEBAR_H = 30
