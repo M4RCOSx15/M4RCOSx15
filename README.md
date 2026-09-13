@@ -1,81 +1,40 @@
 <div align="center">
-  <img src="banner.jfif" width="100%" alt="banner"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=24&pause=2000&color=C9A84C&center=true&vCenter=true&width=800&lines=I'm+Backend+developer;Take+care,+my+friend.;Don't+you+dare+become+empty." alt="Typing SVG"/>
-</div>
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock -->
 
-<br/>
+<h3><code>m4rcosx15@github ~ $ whoami</code></h3>
 
-<div align="center">
-  <a href="https://linkedin.com/in/marcos-gabriel-93b8b2345">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Marcos — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="MARCOS — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
-<br/>
+<br>
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=M4RC0Sx15&style=flat-square&color=C9A84C&label=ESTUS+REFILLS" alt="Profile Views"/>
-</div>
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
----
+<h3><code>m4rcosx15@github ~ $ ./contributions.sh</code></h3>
 
-### 🗡️ Backend / Full-Stack Apprentice
+<img src="./contrib-heatmap.svg" width="860" alt="Marcos's GitHub contribution graph — auto-refreshed daily" />
 
-> *"The flow of time itself is convoluted, with heroes centuries old phasing in and out."*
+<br>
+<br>
 
-Atualmente cursando **Ciência da Computação na UNA**, foco minha build no desenvolvimento de sistemas robustos e escaláveis. Tenho experiência em modelagem de dados e integração de APIs, explorando o ecossistema de software de modo geral.
+<h3><code>m4rcosx15@github ~ $ ./links.sh</code></h3>
 
-<img align="right" width="220px" src="artorias.jfif" alt="Character"/>
+<p><b>Full-stack Developer</b></p>
 
-```text
-◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Minas Gerais, Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
-```
----
+[![GitHub](https://img.shields.io/badge/GitHub-M4RCOSx15-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4RCOSx15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-93b8b2345/)
 
-###  Arsenal Técnico
+<br>
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=C9A84C)
-![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=C9A84C)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=C9A84C)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=C9A84C)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=C9A84C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=C9A84C)
-
-</div>
-
----
-
-###  Status do Personagem (Estatísticas)
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=M4RCOSx15&theme=dark&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=C9A84C" alt="streak"/>
-
-<br/><br/>
-
-</div>
-
----
-
-###  Quest Log (Jornada de Contribuições)
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M4RCOSx15&bg_color=0d0d0d&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=C9A84C" alt="Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-  <em>May the flames guide thee, Marcos.</em>
 </div>
