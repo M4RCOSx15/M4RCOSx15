@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-gabriel-93b8b2345/">
-    <img src="./chess_pixel.png" />
+    <img src="./CHESSPIXEL.jpg" width="200"/>
   </a>
 </p>
 
